@@ -1,0 +1,1 @@
+{ "name": "blackjack-21-deploy", "private": true, "type": "module", "engines": { "node": ">=20" } }
